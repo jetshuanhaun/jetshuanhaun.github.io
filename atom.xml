@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jetshuanhaun.github.io</id>
     <title>追光的焕焕</title>
-    <updated>2020-05-02T03:03:21.453Z</updated>
+    <updated>2021-01-12T14:09:44.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jetshuanhaun.github.io"/>
     <link rel="self" href="https://jetshuanhaun.github.io/atom.xml"/>
     <subtitle>bear冲冲冲</subtitle>
     <logo>https://jetshuanhaun.github.io/images/avatar.png</logo>
     <icon>https://jetshuanhaun.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 追光的焕焕</rights>
+    <rights>All rights reserved 2021, 追光的焕焕</rights>
     <entry>
-        <title type="html"><![CDATA[焕焕的第一篇博客]]></title>
+        <title type="html"><![CDATA[焕焕]]></title>
         <id>https://jetshuanhaun.github.io/huan-huan-de-di-yi-pian-bo-ke/</id>
         <link href="https://jetshuanhaun.github.io/huan-huan-de-di-yi-pian-bo-ke/">
         </link>
